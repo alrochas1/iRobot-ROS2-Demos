@@ -1,6 +1,12 @@
 # iRobot-ROS2-Demos
 Scripts en Python para controlar el iRobot Create3 con ROS2 Humble. Incluye ejemplos básicos de movimiento, lectura de sensores y comportamientos autónomos simples. Son útiles para gente que está aprendiendo los conceptos básicos de ROS2.
 
+| Simulación en Gazebo | Mapa de ocupación generado |
+|----------------------|---------------------------|
+| ![Simulación Gazebo](map/example_test4_real.png) | ![Mapa de ocupación](map/example_test4_map.png) |
+
+
+
 ## Scripts principales
 
 - **actual_position.py**  
